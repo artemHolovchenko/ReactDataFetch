@@ -1,0 +1,14 @@
+.bd {
+  border: 1px solid black;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+button {
+  margin-bottom: 15px;
+}
+
+input {
+  width: 100%;
+  margin: 10px;
+}
